@@ -19,7 +19,3 @@ To illustrate the different configuration options, this application deserializes
 ## Docker compose
 
 This code includes a `docker-compose.yml` file so you can use Docker Compose to start up Kafka, no installation needed.
-
-## Did I help you?
-
-Give a star to this project and/or [buy me a coffee](https://buymeacoff.ee/ZyLJNUR) 😄
